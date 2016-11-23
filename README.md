@@ -3,4 +3,5 @@ Utility to plot electronic band structure from VASP output files (requires the s
 
 To run this in the Terminal, simply run Python with the name of your system as an extra command in the same directory as your VASP output files. 
 e.g.
+
 python band.py Silicon-bulk
