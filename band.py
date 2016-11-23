@@ -89,7 +89,7 @@ plt.ylabel("eV")
 plt.title(title)
 plt.tick_params(axis='x',which='both',bottom='off',labelbottom='off')
 
-
+#limit the graph such that you only see bands close to the Fermi level
 plt.xlim(0,xmax)
 plt.ylim(ef-2,ef+2)
 
