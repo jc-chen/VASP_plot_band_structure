@@ -96,6 +96,6 @@ plt.ylim(ef-2,ef+2)
 f.close()
 f2.close()
 
-#plt.savefig("/home/jeanchen/DFT/adatom/New/graphs/" + title + "_band.png")
+#plt.savefig("/home/" + title + "_band.png")
 
 plt.show()
